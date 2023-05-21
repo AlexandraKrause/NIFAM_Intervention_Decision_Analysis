@@ -1,0 +1,13 @@
+Group;Person;Adress;Longitude;Latitude;Name;Location;Food-type1;Food-type2;Food-type3;Food-type4;Food-type5;polygon
+Girls-10-13;starfish;622 P. Minh Khai, V?nh Phú, Hai Bà Tr?ng, Hà N?i, Vietnam;20,99939016;105,8708032;NA;Home;NA;NA;NA;NA;NA;NA
+Girls-10-14;starfish;8 P.Tu Hoàng, Xuân Ph??ng, Nam T? Liêm, Hà N?i, Vietnam;21,05295721;10,57298524;NA;School-Workplace;NA;NA;NA;NA;NA;NA
+Girls-10-16;starfish;54 P. Li?u Giai, C?ng V?, Ba ?ình, Hà N?i 100000, Vietnam;21,03212644;10,5812507;NA;Restaurant visit with family;TH;NA;NA;NA;NA;NA
+Girls-10-17;starfish;D??ng N?i, Hà ?ông, Hanoi, Vietnam;20,98985338;10,57518474;NA;Restaurant visit alone;C;TH;NA;NA;NA;NA
+Girls-10-18;starfish;Ng. 72 ?. Nguy?n Trãi, Th??ng ?ình, Thanh Xuân, Hà N?i, Vietnam;21,00093857;10,5816021;NA;Grocery shopping for family;C;R;TH;NA;NA;NA
+Girls-10-19;starfish;622 P. Minh Khai, V?nh Phú, Hai Bà Tr?ng, Hà N?i, Vietnam;20,99939016;10,58708032;NA;Grocery shopping for yourself;D;NA;NA;NA;NA;NA
+young-mothers;brown; Lò ?úc, Ph?m ?ình H?, Hai Bà Tr?ng, Hà N?i, Vietnam;21,01719406;11;NA;Restaurant;D;C;V;NA;NA;street
+young-mothers;brown;4 ngõ 10 P. 8-3, Qu?nh Mai, Hai Bà Tr?ng, Hà N?i, Vietnam;21,00032964;11;NA;Wetmarket;V;C;D;CB;CCB;NA
+young-mothers;brown;P. Hào Nam,??ng ?a, Hanoi, Vietnam;10,58274477;105,8274477;NA;workplace2;CB;T;CBB;NA;NA;street-end
+young-mothers;brown;385 Tr?n Khát Chân, Ph? Hu?, Hai Bà Tr?ng, Hà N?i, Vietnam;21,00907857;105,8546863;NA;workplace2;NA;NA;NA;NA;NA;street-end
+young-mothers;brown;19 Tr?n Khát Chân, Thanh L??ng, Hai Bà Tr?ng, Hà N?i, Vietnam;21,00881443;10,58619322;NA;home;NA;NA;NA;NA;NA;NA
+young-mothers;brown;458 P. Minh Khai, V?nh Phú, Hai Bà Tr?ng, Hà N?i 100000, Vietnam;20,99480699;10,58706266;Winmart;Grocery;NA;NA;NA;NA;NA;NA
